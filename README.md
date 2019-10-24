@@ -1,2 +1,2 @@
-# DSC-GTBIT-GCPCrashCourse
-DSC-GTBIT GCP Crash Course
+# gcpcrashcourse
+Landing page for #GCPCrashCourse
